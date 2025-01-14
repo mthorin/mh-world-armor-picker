@@ -1,0 +1,19 @@
+{
+  "name": "mh-world-armor-picker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mthorin/mh-world-armor-picker.git"
+  },
+  "author": "Matthew Thorin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mthorin/mh-world-armor-picker/issues"
+  },
+  "homepage": "https://github.com/mthorin/mh-world-armor-picker#readme"
+}
